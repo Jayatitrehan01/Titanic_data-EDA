@@ -1,4 +1,4 @@
-# Titanicd Data-Exploratory Data Analysis (EDA)
+# Titanic Data-Exploratory Data Analysis (EDA)
 When the Titanic set sail in 1912, no one aboard knew they were about to become part of one of history's most infamous tragedies. But hidden within the rows of data — names, ages, ticket classes — are the threads of those untold stories. In this project, I set out not just to analyze the Titanic dataset, but to listen to what the data has to say.
 <br>
 
